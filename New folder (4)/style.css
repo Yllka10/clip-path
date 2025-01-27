@@ -1,0 +1,19 @@
+ #clip-path{
+    height: 40em;
+    width: 118em;
+    clip-path: polygon(0 0, 100% 0, 100% 81%, 0% 100%);
+    background: cover;
+    background: linear-gradient(
+        90deg,
+        rgba(92, 240, 136, 0.541) 0%,
+        rgba(10, 61, 25, 0.351) 100%
+    ),
+   url("https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667")
+    
+} 
+.yllka{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+}
